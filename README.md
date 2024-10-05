@@ -1,5 +1,5 @@
-# 30 Min Professional Website with Dark Mode
+# 30 Min Professional Website with Source Code & Live View
 
-## Landing Web Page
-- **Source Code**: [GitHub Repository](https://github.com/TeluguWebTech/React_Tailwind)   https://github.com/TeluguWebTech/React_Tailwind
-- **Live View**: [Website Link](https://react-tailwind-phi-pink.vercel.app/)   https://react-tailwind-phi-pink.vercel.app/
+## Landing Web Page with Dark Mode
+- **GitHub Repository**:  https://github.com/TeluguWebTech/React_Tailwind
+- **Website Link**:   https://react-tailwind-phi-pink.vercel.app/
