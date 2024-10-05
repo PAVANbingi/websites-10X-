@@ -5,10 +5,12 @@
 
 ## Landing Web Page with Dark Mode
 
-<img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3057).png" width="25%" />
-<img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3058).png" width="25%" />
-<img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3059).png" width="25%" />
-<img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3060).png" width="25%" />
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3057).png" width="25%" />
+    <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3058).png" width="25%" />
+    <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3059).png" width="25%" />
+    <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3060).png" width="25%" />
+</div>
 
 ---
 
