@@ -8,10 +8,16 @@
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3057).png" width="49%" />
     <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3058).png" width="49%" />
-    <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3059).png" width="50%" />
-    <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3060).png" width="50%" />
+    <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3059).png" width="49%" />
+    <img src="https://github.com/PAVANbingi/websites-10X-/blob/main/Screenshot%20(3060).png" width="49%" />
 </div>
 
 ---
 
-![img](link feature websites)
+(link feature websites)
+## first copy it & paste for next project ..
+
+<div style="display: flex; justify-content: space-around;">
+    <img src=" " width="49%" />
+    <img src="  " width="49%" />
+</div>
